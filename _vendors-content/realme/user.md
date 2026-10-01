@@ -1,4 +1,4 @@
----
+dont-kill-my-app
 manufacturer: 
     - realme
 
